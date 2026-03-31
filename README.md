@@ -115,3 +115,9 @@ This Excel project provides a comprehensive look at an e-commerce grocery busine
 ## Conclusion
 
 This Road Accident Dashboard serves as a valuable tool for policymakers, traffic authorities, and researchers to identify critical road safety issues and implement preventive measures effectively.
+
+---
+
+**👨‍💻 Author** </br>
+Vinut Maradur </br>
+MCA (Data Science) Graduate | Data Analyst | Data Science Enthusiast
